@@ -2,9 +2,12 @@
     margin: 0;
     padding: 0px;
 }
-
+@font-face {
+    font-family: "Zain";
+    src: url(./fonts/Zain-Regular.ttf);
+}
 body{
-    font-family: "Inter", sans-serif;
+    font-family: "Zain", sans-serif;
     background-color:  #f4f6fb;
     color: black;
     line-height: 1.6;
